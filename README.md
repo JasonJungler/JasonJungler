@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm JasonJungler</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jason-chang-882aba82/">JasonJungler</a> 👋</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jasonjungler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
