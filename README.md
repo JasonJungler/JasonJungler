@@ -1,20 +1,11 @@
-<!--
-**JasonJungler/JasonJungler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jason-chang-882aba82/">JasonJungler</a> 👋</h1>
 
-<p align="left"> 
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/JasonJungler)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-chang-882aba82/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:jasons10219@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/JasonJungler/)
+
+<p> 
   <img src="https://komarev.com/ghpvc/?username=jasonjungler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
@@ -74,4 +65,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![JasonJungler's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=JasonJungler&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JasonJungler?ext=heatmap&animation=true)](https://leetcode.com/JasonJungler)
