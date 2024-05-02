@@ -65,4 +65,4 @@
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JasonJungler?ext=heatmap&animation=true)](https://leetcode.com/JasonJungler)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JasonJungler?animation=true)](https://leetcode.com/JasonJungler)
