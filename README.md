@@ -12,8 +12,6 @@
 <h3>
   
   - 🇹🇼 I'm a full-stack developer from Taiwan
-  
-  - 🚀 Currently working as an IT Software Engineer at <a href="https://www.appier.com/en/">Appier</a>
     
   - 💪 I thrive in collaborative environments and am always eager to learn and explore new technologies. Let's work together to create innovative solutions that make an impact!
     
