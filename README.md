@@ -5,10 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:jasons10219@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/JasonJungler/)
 
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=jasonjungler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
 <h3>
   
   - 🇹🇼 I'm a full-stack developer from Taiwan
